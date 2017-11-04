@@ -1,0 +1,26 @@
+Assignment 3: Search
+Adam Macioszek amm452
+Summary:
+The most challenging part of this assignment was trying to understand
+the different functors and how their different types were related. I'm 
+still not sure I really understand how some of them work. The biggest 
+challenge I had in implementing the assignment was that when I was
+presented with the barebones code for the assignment I had no idea where
+to start. I didn't have time to implement remove for tree dictionaries
+and I did not have time to test any of the code formally.
+Desgin,Implementation, Testing: 
+When chooseing my RI for the List dictionary I thought that if I implemented
+it in order with no duplicate keys I would benifit because I could make
+my Set easier to implement. Because he RI for the 2-3 tree and the 
+List were the same it made the set much easier to think about.I tried to
+make the majority of my functions tail recursive. Unfortunately I ran out
+of time and was not able to fully test my code but I was able to get it 
+running in utop and ListEngine appeared to be working.
+Division of labor:
+All me.
+Known Problems: The majority of the code isn't properly tested and Tree
+dictionary isn't fully implemented.
+Comments:
+I probably spent about 30 hours on this assignment. A good portion of 
+that time was spent trying to figure out what the code given to us meant 
+and how you use it or implement it. Def

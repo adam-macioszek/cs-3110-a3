@@ -1,0 +1,467 @@
+commit c523ba6350fea06a0058fdfc120113ee3e3bf0a4
+Author: amm452 <amm452@cornell.edu>
+Date:   Wed Oct 25 23:49:25 2017 -0400
+
+    final push
+
+ OverviewA3 | 26 ++++++++++++++++++++++++++
+ 1 file changed, 26 insertions(+)
+
+commit f345cf7afca962707b8de03a79221bff3de8077d
+Author: amm452 <amm452@cornell.edu>
+Date:   Wed Oct 25 23:30:44 2017 -0400
+
+    comments
+
+ data.ml   | 139 ++++++++++++++++++++++++++++++++++++++++----------------------
+ engine.ml |   9 +++-
+ 2 files changed, 98 insertions(+), 50 deletions(-)
+
+commit 144c9c3520ce3d47f44649f8697842dc8e048176
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Wed Oct 25 22:49:33 2017 -0400
+
+    final
+
+ data.ml | 83 +++++++++++------------------------------------------------------
+ 1 file changed, 14 insertions(+), 69 deletions(-)
+
+commit 708575af185141ea4024a4e8ef1d275f7fe0e992
+Author: amm452 <amm452@cornell.edu>
+Date:   Wed Oct 25 22:02:24 2017 -0400
+
+    last try
+
+ data.ml | 19 +++++++++----------
+ 1 file changed, 9 insertions(+), 10 deletions(-)
+
+commit 9bb069d6c61736a143a672520b3e6d6fc88636d1
+Author: amm452 <amm452@cornell.edu>
+Date:   Wed Oct 25 21:54:44 2017 -0400
+
+    work
+
+ data.ml | 8 ++++----
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+commit ffc0f17cb7bc283b6f2344284e0e4eec8772aea1
+Author: amm452 <amm452@cornell.edu>
+Date:   Wed Oct 25 21:46:42 2017 -0400
+
+    work
+
+ data.ml | 31 +++++++++++++++++++++----------
+ 1 file changed, 21 insertions(+), 10 deletions(-)
+
+commit 1d86361fbe3d2005587117e8b703c749288bf065
+Author: amm452 <amm452@cornell.edu>
+Date:   Wed Oct 25 21:10:10 2017 -0400
+
+    work
+
+ data.ml | 63 ++++++++++++++++++++++++++++++++++++++++++++++++++++++---------
+ 1 file changed, 54 insertions(+), 9 deletions(-)
+
+commit a41b9f688ab506a1e45c184b9b30f36590bb239b
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Wed Oct 25 20:32:14 2017 -0400
+
+    back in it
+
+ data.ml | 23 +++--------------------
+ 1 file changed, 3 insertions(+), 20 deletions(-)
+
+commit 6ba41bd4d2c8172c85cf8241faea1397a54ec4d4
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Wed Oct 25 20:25:29 2017 -0400
+
+    back in it
+
+ data.ml   | 14 +++++---------
+ engine.ml | 60 ++++++++++++++++++++++++++++++------------------------------
+ 2 files changed, 35 insertions(+), 39 deletions(-)
+
+commit cc86e6d62567c63c479e6d2c9c9933ce27439b0e
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Wed Oct 25 19:31:58 2017 -0400
+
+    save
+
+ data.ml   | 21 +++++----------------
+ engine.ml | 12 +++++++-----
+ 2 files changed, 12 insertions(+), 21 deletions(-)
+
+commit 2b7281c5b2bc1511909069cb542eb0d96e756290
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Wed Oct 25 16:51:47 2017 -0400
+
+    clean up part deux
+
+ data.ml | 70 ++++++++++++++++++++++++++++++++---------------------------------
+ 1 file changed, 35 insertions(+), 35 deletions(-)
+
+commit 4b2ca6ffb6a34a63dbde90028a14123235a001fe
+Author: amm452 <amm452@cornell.edu>
+Date:   Wed Oct 25 16:42:18 2017 -0400
+
+    clean up
+
+ data.ml | 256 ++++++++++++++++++++++++++++++++--------------------------------
+ 1 file changed, 129 insertions(+), 127 deletions(-)
+
+commit 7e26a6aa0bb1bec7bf93272398414f05278e2eac
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Wed Oct 25 15:47:08 2017 -0400
+
+    money team bih
+
+ data.ml | 47 ++++++++++++++++++++++++++++++++++++++---------
+ 1 file changed, 38 insertions(+), 9 deletions(-)
+
+commit 47fc280873608ee1ce36f8ccaab6e4ddc6bc46c0
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Wed Oct 25 13:41:51 2017 -0400
+
+    fold implementation
+
+ data.ml   | 19 ++++++++++---------
+ engine.ml | 16 +++++++---------
+ 2 files changed, 17 insertions(+), 18 deletions(-)
+
+commit 58314d9a60ee5ec4c6bb2831403e055ccb018bde
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Wed Oct 25 03:27:05 2017 -0400
+
+    slowly comming together
+
+ data.ml | 76 +++++++++++++++++++++++++++++++++--------------------------------
+ 1 file changed, 39 insertions(+), 37 deletions(-)
+
+commit b2e03719dcb1c22578f42b88dc0818ab4ad0d6bd
+Author: amm452 <amm452@cornell.edu>
+Date:   Wed Oct 25 02:08:01 2017 -0400
+
+    added variant insert helper
+
+ data.ml | 26 +++++++++-----------------
+ 1 file changed, 9 insertions(+), 17 deletions(-)
+
+commit 7058b473ff2e0346a0accf8948b14659ba0cc8b9
+Author: amm452 <amm452@cornell.edu>
+Date:   Wed Oct 25 01:19:08 2017 -0400
+
+    added variant insert helper
+
+ data.ml | 16 +++++++++++++++-
+ 1 file changed, 15 insertions(+), 1 deletion(-)
+
+commit 5600abf16a2567341370634ec97c389c8405ffcf
+Author: amm452 <amm452@cornell.edu>
+Date:   Wed Oct 25 01:16:25 2017 -0400
+
+    added variant insert helper
+
+ data.ml | 8 ++++----
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+commit 0d6273a6732798006ecccd036442506d0b4beaf8
+Author: amm452 <amm452@cornell.edu>
+Date:   Wed Oct 25 01:13:26 2017 -0400
+
+    added variant insert helper
+
+ data.ml | 44 +++++++++++++++++++++++++++++++++++---------
+ 1 file changed, 35 insertions(+), 9 deletions(-)
+
+commit 30f58f5222ea4544e83fedddda602bc2f9629ce8
+Author: amm452 <amm452@cornell.edu>
+Date:   Wed Oct 25 00:50:31 2017 -0400
+
+    added variant
+
+ data.ml | 13 +++++++++++++
+ 1 file changed, 13 insertions(+)
+
+commit 8cd17d157000fa79a98a53a92cc22c0a70c149de
+Author: amm452 <amm452@cornell.edu>
+Date:   Wed Oct 25 00:23:39 2017 -0400
+
+    ListEngine update
+
+ engine.ml | 41 +++++------------------------------------
+ 1 file changed, 5 insertions(+), 36 deletions(-)
+
+commit 5fd1556270117de59319b589b23c07630b1ff2b1
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Wed Oct 25 00:05:27 2017 -0400
+
+    attempting ListEngine
+
+ data.ml   |  2 +-
+ engine.ml | 30 +++++++++++++++++++-----------
+ 2 files changed, 20 insertions(+), 12 deletions(-)
+
+commit 6ead7b7221a8493c7340ffdb0de14669a46e0333
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Tue Oct 24 22:53:54 2017 -0400
+
+    victory approaches
+
+ data.ml   | 60 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+ engine.ml | 14 +++++++++-----
+ 2 files changed, 65 insertions(+), 9 deletions(-)
+
+commit 17bafa41a9dd13cb37b0ffec216b4067da2a095e
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Tue Oct 24 17:27:21 2017 -0400
+
+    fixed list dictionary
+
+ data.ml   | 59 ++++++++++++++++++++++++++++++++++++++++++++++++-----------
+ engine.ml | 28 ++++++++++++++--------------
+ 2 files changed, 62 insertions(+), 25 deletions(-)
+
+commit 73cddef7c3c60b608b831f711d225802ca198844
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Tue Oct 24 15:44:44 2017 -0400
+
+    index_of_dir cont)
+
+ engine.ml | 44 ++++++++++++++++++++------------------------
+ 1 file changed, 20 insertions(+), 24 deletions(-)
+
+commit 681e3bbad06c9505e5d0de4863167d3deec69840
+Author: amm452 <amm452@cornell.edu>
+Date:   Tue Oct 24 15:37:17 2017 -0400
+
+    idex of dir
+
+ engine.ml | 75 +++++++++++++++++++++++++++++++++++++++++++--------------------
+ 1 file changed, 52 insertions(+), 23 deletions(-)
+
+commit fc92883b8783ce41516f34c475c7d5338a715f16
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Tue Oct 24 14:33:32 2017 -0400
+
+    working on engine part deux
+
+ engine.ml | 46 ++++++++++++++++++++++++++++++----------------
+ 1 file changed, 30 insertions(+), 16 deletions(-)
+
+commit 6482aad236affd3be7f0de702483a34e12cd47c7
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Tue Oct 24 12:59:45 2017 -0400
+
+    working on engine
+
+ README.md     |    2 -
+ checkenv.sh   |    0
+ checktypes.sh |    0
+ checkzip.sh   |    0
+ data.ml       |  118 +-
+ engine.ml     |   54 +-
+ medium.txt    |    5 -
+ pg11.txt      | 3735 ------------------------------
+ pg16328.txt   | 7004 ---------------------------------------------------------
+ small.txt     |    3 -
+ 10 files changed, 90 insertions(+), 10831 deletions(-)
+
+commit 43bf9024ec84e7a3f34bb3920c122564bf35af0f
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Tue Oct 24 00:30:01 2017 -0400
+
+    this is some wizard stuff
+
+ engine.ml | 40 +++++++++++++++++++++++++++++++---------
+ 1 file changed, 31 insertions(+), 9 deletions(-)
+
+commit c5d1d48b7c9b6d513750739de2f0a8060dc7b082
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Tue Oct 24 00:27:20 2017 -0400
+
+    why
+
+ engine.ml | 40 +++++++++-------------------------------
+ 1 file changed, 9 insertions(+), 31 deletions(-)
+
+commit 826c41bfa4faf32220f0a6a58d1766cb9dc88bec
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Tue Oct 24 00:16:34 2017 -0400
+
+    debugging Data is unbound module
+
+ data.ml   | 10 ++++++++--
+ engine.ml | 40 +++++++++++++++++++++++++++++++++-------
+ 2 files changed, 41 insertions(+), 9 deletions(-)
+
+commit f58701f275901c5cc0699276fc2dd048aa0c4843
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Sun Oct 22 16:49:37 2017 -0400
+
+    making it complie
+
+ data.ml   | 39 +++++++++++++++++++++++++--------------
+ engine.ml |  7 ++-----
+ 2 files changed, 27 insertions(+), 19 deletions(-)
+
+commit 2cc64b9f36bd3773d11ed4e8f838e445180ae49f
+Author: amm452 <amm452@cornell.edu>
+Date:   Sun Oct 22 16:08:24 2017 -0400
+
+    trying to fix fold
+
+ data.ml | 5 +----
+ 1 file changed, 1 insertion(+), 4 deletions(-)
+
+commit 7430cebb2cd9b1196342bf041d3c39eb99da3998
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Sun Oct 22 16:04:42 2017 -0400
+
+    what changes
+
+ data.ml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit ec6fe1c851e1e3d36466f9409deae901394b7a26
+Author: amm452 <amm452@cornell.edu>
+Date:   Sun Oct 22 16:01:49 2017 -0400
+
+    trying to fix github merger
+
+ data.ml   | 24 ++++++++++++------------
+ engine.ml |  5 ++---
+ 2 files changed, 14 insertions(+), 15 deletions(-)
+
+commit 7bf062ea70437df9e311a34c42638b0b1ed7cd4c
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Sun Oct 22 15:14:57 2017 -0400
+
+    fixed merger?
+
+ data.ml | 101 ++++++++++++++++++++++++++++++++--------------------------------
+ 1 file changed, 50 insertions(+), 51 deletions(-)
+
+commit 7de86e2b11819bd21c970d6f2bc3080f8b0d3582
+Author: amm452 <amm452@cornell.edu>
+Date:   Sun Oct 22 14:36:59 2017 -0400
+
+    trying to fix github merger
+
+ data.ml | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit bd05fb834b8401e3882ca27f6394cdd5561c2037
+Author: amm452 <amm452@cornell.edu>
+Date:   Sun Oct 22 14:32:49 2017 -0400
+
+    trying to fix github merger
+
+ data.ml | 48 ++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 48 insertions(+)
+
+commit a50edb5b3fdee357c1beb4806679490315ba4544
+Merge: 281525e fef18db
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Sun Oct 22 14:15:02 2017 -0400
+
+    merge attempt
+
+commit fef18db9261e3a8524afa0407c67bd5e2552474d
+Author: amm452 <amm452@cornell.edu>
+Date:   Sun Oct 22 00:27:32 2017 -0400
+
+    lol tree remove
+
+ data.ml | 110 +++++++++++++++++++++++++++++++++++++++++++++-------------------
+ 1 file changed, 77 insertions(+), 33 deletions(-)
+
+commit 1f686e0c046e91ea7c549ca8d420b2628694acdb
+Author: amm452 <amm452@cornell.edu>
+Date:   Sat Oct 21 22:51:28 2017 -0400
+
+    tree insert
+
+ data.ml | 84 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-----
+ 1 file changed, 78 insertions(+), 6 deletions(-)
+
+commit 281525e1ad7d97e5b03abb0d4cf0b6a4906e0eb7
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Sat Oct 21 20:55:22 2017 -0400
+
+    tree work
+
+ data.ml | 54 ++++++++++++++++++++++++++++++++++++++++++++++++------
+ 1 file changed, 48 insertions(+), 6 deletions(-)
+
+commit 8bb79a222fa8cab3f63870c2fb152d66a98ffd47
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Sat Oct 21 17:09:28 2017 -0400
+
+    implementation of sets, insert not functional yet
+
+ data.ml | 80 ++++++++++++++++++++++++++++++++++++++++++++---------------------
+ 1 file changed, 55 insertions(+), 25 deletions(-)
+
+commit a668b9abff7a6699f9d0325d189e110250ece1a7
+Author: vagrant <vagrant@vm3110-2017fa>
+Date:   Thu Oct 19 23:42:19 2017 -0400
+
+    updated dictionary list
+
+ data.ml | 75 +++++++++++++++++++++++++++++++++++------------------------------
+ 1 file changed, 40 insertions(+), 35 deletions(-)
+
+commit f44eb76e62c2b9490d58efb37e62a5aa67b5f6f6
+Author: amm452 <amm452@cornell.edu>
+Date:   Thu Oct 19 17:19:04 2017 -0400
+
+    dictionary list implementation revision
+
+ data.ml | 22 ++++++++++++----------
+ 1 file changed, 12 insertions(+), 10 deletions(-)
+
+commit d539d1e8a7be6cd599aa446cd0a68fc4e10387a5
+Author: amm452 <amm452@cornell.edu>
+Date:   Thu Oct 19 16:47:36 2017 -0400
+
+    intial dictionary list implementation
+
+ data.ml | 43 ++++++++++++++++++++++++++++++-------------
+ 1 file changed, 30 insertions(+), 13 deletions(-)
+
+commit d34b10fe8daab4b29293e16f671a68ba92bd86bc
+Author: Adam Mark Macioszek <amm452@cornell.edu>
+Date:   Tue Oct 17 23:45:59 2017 -0400
+
+    Add files via upload
+
+ Makefile        |   18 +
+ VERSION         |    1 +
+ _tags           |    1 +
+ checkenv.sh     |   49 +
+ checktypes.ml   |  122 +
+ checktypes.sh   |   41 +
+ checkzip.sh     |   50 +
+ data.ml         |  224 ++
+ data.mli        |  268 +++
+ engine.ml       |   52 +
+ engine.mli      |   48 +
+ medium.txt      |    5 +
+ pg11.txt        | 3735 +++++++++++++++++++++++++++++
+ pg16328.txt     | 7004 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ small.txt       |    3 +
+ test_data.ml    |   20 +
+ test_data.mli   |   19 +
+ test_engine.ml  |    7 +
+ test_engine.mli |    2 +
+ test_main.ml    |    8 +
+ 20 files changed, 11677 insertions(+)
+
+commit 8740cf7fedf45d515270a668d4cc2b174f40c409
+Author: Adam Mark Macioszek <amm452@cornell.edu>
+Date:   Tue Oct 17 23:42:09 2017 -0400
+
+    Create README.md
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
